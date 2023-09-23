@@ -1,0 +1,7 @@
+{
+  "namespace": "general_section",
+
+  "video_section/vsync_toggle": {
+    "ignored": false
+  }
+}

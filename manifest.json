@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "VSync設定追加",
+    "description": "v1.20.30でなぜか追加されなかったVSync(垂直同期)設定を追加します!\nby YuuhaLand / YukaYama0311",
+    "uuid": "617ddd68-4907-4590-bf50-0d494136df47",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "732db1e3-f51e-41c2-908f-f7f23f7956e7",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
